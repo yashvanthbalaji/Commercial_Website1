@@ -1,5 +1,7 @@
 # Ex02 Commercial Website
-## Date:
+## Date: 02.02.2026
+## Name: Balaji A 
+## RegNo: 21222304023
 
 ## AIM
 To create a commercial website using CSS Flexbox.
